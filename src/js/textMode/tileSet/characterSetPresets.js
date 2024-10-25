@@ -196,6 +196,12 @@ var CharacterSetPresets = [
     ]
   },
   {
+	category: "Trixel Art",
+	characterSets: [
+		{ "name": "Trixel 3px", "id": "trixel_3px", width: 4, height: 3, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
+	]
+  },
+  {
     category: "12x20",
     characterSets: [
       { "name": "Teletext", "id": "teletext_12x20", width: 12, height: 20 }
