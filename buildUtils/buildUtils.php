@@ -3,6 +3,7 @@
 $GLOBALS["LASTIDINDEX"] = 0;
 
 $GLOBALS["ALLIDS"] = [];
+
 function getIdentifier() {
   $letters = range('a', 'z');
 
