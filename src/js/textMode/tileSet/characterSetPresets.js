@@ -199,7 +199,7 @@ var CharacterSetPresets = [
 	category: "Trixel Art",
 	characterSets: [
 		{ "name": "Trixel 4x3", "id": "trixel_3px", width: 4, height: 3, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
-		{ "name": "Trixel 5x4", "id": "trixel_4px", width: 4, height: 3, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
+		{ "name": "Trixel 5x4", "id": "trixel_4px", width: 5, height: 4, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
 	]
   },
   {
