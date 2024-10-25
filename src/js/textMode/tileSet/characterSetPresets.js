@@ -182,6 +182,12 @@ var CharacterSetPresets = [
     ]
   },
   {
+	category: "12x12",
+	characterSets: [
+		{ "name": "Lospec 1", "id": "lospec_1", width: 12, height: 12, author: "Lospec Discord Community", authorlink: ' (<a href="https://lospec.com/discord" target="_blank">https://lospec.com/discord</a>)', type: "custom" },
+	]
+  },
+  {
     category: "16x16",
     characterSets: [
       { "name": "Kenny 1 Bit Pack", "id": "kenny1bit", width: 16, height: 16, author: "Kenny", authorlink: ' (<a href="https://www.kenney.nl/assets/bit-pack" target="_blank">https://www.kenney.nl/assets/bit-pack</a>)', type: "custom" },
