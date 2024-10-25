@@ -184,7 +184,7 @@ var CharacterSetPresets = [
   {
 	category: "12x12",
 	characterSets: [
-		{ "name": "Lospec 1", "id": "lospec_1", width: 12, height: 12, author: "Lospec Discord Community", authorlink: ' (<a href="https://lospec.com/discord" target="_blank">https://lospec.com/discord</a>)', type: "custom" },
+		{ "name": "Lospec 12", "id": "lospec12", width: 12, height: 12, author: "Lospec Discord Community", authorlink: ' (<a href="https://lospec.com/discord" target="_blank">https://lospec.com/discord</a>)', type: "custom" },
 	]
   },
   {
