@@ -214,6 +214,8 @@ var CharacterSetPresets = [
 		//{ "name": "Trixel 17x16", "id": "trixel_16px", width: 17, height: 16, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
 		{ "name": "Trixel Tall 4x6", "id": "trixel_4x6", width: 4, height: 6, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
 		{ "name": "Trixel Tall 7x12", "id": "trixel_7x12", width: 7, height: 12, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
+		{ "name": "Trixel Wide 6x4", "id": "trixel_wide_6x4", width: 6, height: 4, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
+		{ "name": "Trixel Wide 10x6", "id": "trixel_wide_10x6", width: 10, height: 6, author: "skeddles", authorlink: ' (<a href="https://lospec.com/skeddles" target="_blank">https://lospec.com/skeddles</a>)', type: "custom" },
 	]
   },
   {
